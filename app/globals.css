@@ -31,7 +31,7 @@
   label {
     @apply mt-4
   }
-  input, textarea {
+  input, textarea, select {
     @apply m-1 rounded bg-card p-1
   }
 }
